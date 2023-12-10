@@ -1,5 +1,6 @@
 # CSIT 2023 - Audio Processing Mini Challenge
 
+<img src="csit-data-science-challenge-2023-dbadge.png">
 This repository contains code and materials related to the Data Science in Audio Processing and Manipulation mini challenge for CSIT 2023.
 
 ## How to View
